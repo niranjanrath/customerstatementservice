@@ -70,7 +70,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-        <!--   TEST DEPENDENCIES END     -->
     </dependencies>
 
     <build>
